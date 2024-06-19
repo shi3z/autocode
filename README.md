@@ -1,4 +1,4 @@
-# autocode ; Auto Python Code Generator
+# autocode ; Auto Voice to Code Generator
 
 This program automatically generates Python code based on voice instructions. It captures a 5-second audio recording, interprets the instructions, and executes the generated code. The program has been tested and verified on macOS.
 
